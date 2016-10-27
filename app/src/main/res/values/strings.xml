@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Subway</string> <string-array name="locations">
+    <item>"Yelahanaka new town"</item>
+    <item>"Yelahanaka old town"</item>
+    <item>"M.g Road"</item>
+</string-array>
+</resources>
